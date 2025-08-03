@@ -1,0 +1,6 @@
+clipy
+electron
+iterm2
+temurin17
+temurin@17
+temurin@21
